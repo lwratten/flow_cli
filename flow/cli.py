@@ -24,5 +24,12 @@ class ComplexCLI(click.MultiCommand):
 
 @click.command(cls=ComplexCLI)
 def cli():
-    """Welcome to Flow!"""
+    """
+    Welcome to Flow!
+    """
+
+    # list recent projects
+
+    # if no projects, ask to create a new one
+
     pass
