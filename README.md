@@ -18,3 +18,6 @@ Productivity tracker and time management application
 
 ## User Instructions
 1. The above dev instructions + `flow` command.
+
+
+test git config
